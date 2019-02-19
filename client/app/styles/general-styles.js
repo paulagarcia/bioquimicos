@@ -1,3 +1,4 @@
+
 const drawerWidth = 320;
 
 const transition = {
@@ -30,7 +31,7 @@ const boxShadow = {
 
 
 const defaultFont = {
-  fontFamily: '"Raleway", "sans-serif"',
+  fontFamily: '"Raleway"',
   fontWeight: "300",
   color: 'primaryText',
   fontSize: '1rem'
@@ -51,14 +52,14 @@ const title = {
   margin: "1.75rem 0 0.875rem",
   textDecoration: "none",
   fontWeight: "600",
-  fontFamily: `"Oswald", sans-serif`
+  fontFamily: '"Oswald"'
 };
 
 const sectionTitle = {
   color: '#444',
   fontSize: '3rem',
   fontWeight: '300',
-  fontFamily: 'Oswald, sans-serif',
+  fontFamily: 'Oswald',
   textTransform: 'uppercase',
   textAlign: 'center',
   marginBottom: '16px',

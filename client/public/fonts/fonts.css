@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./Raleway-Light.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./Raleway-Regular.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./Raleway-Medium.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./Raleway-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./Raleway-Bold.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-style: normal;
+  src: url('./Raleway-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 900;
+  font-style: normal;
+  src: url('./Raleway-Black.ttf');
+}
+
+
+@font-face {
+  font-family: 'Meddon';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./Meddon.ttf');
+}
+
+@font-face {
+  font-family: 'Righteous';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./Righteous-Regular.ttf');
+}
+
+
+
+
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 200;
+  font-style: normal;
+  src: url('./Oswald-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./Oswald-Light.ttf');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./Oswald-Regular.ttf');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./Oswald-Medium.ttf');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./Oswald-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./Oswald-Bold.ttf');
+}
