@@ -1,3 +1,4 @@
+var compression = require('compression');
 const express = require('express');
 const fs = require('fs');
 const historyApiFallback = require('connect-history-api-fallback');
@@ -14,6 +15,7 @@ const isDev = process.env.NODE_ENV !== 'production';
 const port  = process.env.PORT || 8080;
 
 
+
 // Configuration
 // ================================================================================================
 
@@ -27,7 +29,9 @@ var db = mongoose.connection;
 //Bind connection to error event (to get notification of connection errors)
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
+
 const app = express();
+app.use(compression());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
