@@ -59,7 +59,7 @@ const sectionTitle = {
   color: '#444',
   fontSize: '3rem',
   fontWeight: '300',
-  fontFamily: 'Oswald',
+  fontFamily: '"Oswald"',
   textTransform: 'uppercase',
   textAlign: 'center',
   marginBottom: '16px',
@@ -78,7 +78,7 @@ const subtitle = {
 };
 
 const subtitleExtra = {
-  fontFamily: 'Meddon, cursive',
+  fontFamily: '"Meddon"',
   color: yellowColor,
   fontSize: '1.3rem',
 };

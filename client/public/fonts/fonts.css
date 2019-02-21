@@ -22,7 +22,7 @@
   font-style: normal;
   src: url('./Raleway-SemiBold.ttf');
 }
-@font-face {
+/*@font-face {
   font-family: 'Raleway';
   font-weight: 700;
   font-style: normal;
@@ -39,7 +39,7 @@
   font-weight: 900;
   font-style: normal;
   src: url('./Raleway-Black.ttf');
-}
+}*/
 
 
 @font-face {
@@ -58,13 +58,13 @@
 
 
 
-
+/*
 @font-face {
   font-family: 'Oswald';
   font-weight: 200;
   font-style: normal;
   src: url('./Oswald-ExtraLight.ttf');
-}
+}*/
 @font-face {
   font-family: 'Oswald';
   font-weight: 300;
@@ -77,21 +77,21 @@
   font-style: normal;
   src: url('./Oswald-Regular.ttf');
 }
-@font-face {
+/*@font-face {
   font-family: 'Oswald';
   font-weight: 500;
   font-style: normal;
   src: url('./Oswald-Medium.ttf');
-}
+}*/
 @font-face {
   font-family: 'Oswald';
   font-weight: 600;
   font-style: normal;
   src: url('./Oswald-SemiBold.ttf');
 }
-@font-face {
+/*@font-face {
   font-family: 'Oswald';
   font-weight: 700;
   font-style: normal;
   src: url('./Oswald-Bold.ttf');
-}
+}*/
