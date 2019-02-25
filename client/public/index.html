@@ -9,11 +9,27 @@
     .preload {
       display: flex;
       justify-content: center;
-      height: 90vh;
+      height: 100vh;
+      align-items: center;
+      flex-direction: column;
+      background: #232526;
+      background: -webkit-linear-gradient(to top, #414345, #232526);
+      background: linear-gradient(to top, #414345, #232526);
     }
     .preload > img {
       animation: load8 2s infinite linear;
-      max-width: 75px;
+      max-width: 80px;
+    }
+    .text{
+      color: #fafafa;
+      font-size: 4.5rem;
+      margin-top: -15px;
+      margin-bottom: 30px;
+      min-height: 32px;
+      font-weight: 500;
+      font-family: Righteous, cursive;
+      text-transform: uppercase;
+      text-align: center;
     }
     @keyframes load8 {
       0% {
@@ -29,6 +45,7 @@
 <body style="margin:0">
   <div id="app">
   <div class="preload">
+    <p class="text">Colegio Bioquimico <br/>San Juan</p>
     <img src="loading.svg" />
   </div>
 </div>
