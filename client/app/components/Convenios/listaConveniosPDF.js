@@ -259,11 +259,11 @@ const listaConveniosPDF = [
     pdf: 'OSPIL.pdf',
     nombre: 'OSPIL'
   },
-  {
+  /*{
     id: 53,
     pdf: 'OSPEGAP.pdf',
     nombre: 'OSPEGAP'
-  },
+  },*/
   {
     id: 54,
     pdf: 'OSPPRA.pdf',
@@ -363,6 +363,11 @@ const listaConveniosPDF = [
     id: 73,
     pdf: 'VENDEDORES-DIARIOS.pdf',
     nombre: 'Unión Vendedores de Diarios'
+  },
+  {
+    id: 74,
+    pdf: 'INTEGRACION-REGIONAL.pdf',
+    nombre: 'INTEGRACIÓN REGIONAL'
   },
 
 
