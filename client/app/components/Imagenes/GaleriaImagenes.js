@@ -105,7 +105,7 @@ class GaleriaImagenes extends React.Component {
               titulo='Festejo del día del Bioquímico'
               fotosMasonry={fotosBioquimicos}
               fotosLigthBox={LightboxBioquimicos}
-              fecha="16 de Junio"
+              fecha="15 de Junio"
               id='galeria-3'
               >
             </Galeria>
