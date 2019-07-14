@@ -7,20 +7,21 @@ import asamblea from '../../../public/assets/img/noticias/asambleaOrdinaria/asam
 import diaMadre from '../../../public/assets/img/noticias/diaMadre/diaMadre.jpg';
 
 const tileData = [
-   {
-     img: cenaFinAnio,
-     title: 'CBSJ agasajó a sus socios en la cena de fin de año',
-     date: '24 de Noviembre',
-     cols: 2,
-     link: 'galeria-6',
-   },
-   {
-     img: asamblea,
-     title: 'Asamblea Anual Ordinaria',
-     date: '31 de Octubre',
-     cols: 1,
-     link: 'galeria-5',
-   },
+  {
+    img: diaBioquimico2,
+    title: 'FESTEJO DEL DÍA DEL BIOQUÍMICO',
+    date: '15 de Junio',
+    cols: 1,
+    link: 'galeria-3',
+  },
+  {
+    img: diaBioquimico,
+    title: 'FESTEJO DEL DÍA DEL BIOQUÍMICO',
+    date: '15 de Junio',
+    cols: 2,
+    link: 'galeria-3',
+  },
+   
    {
      img: diaMadre,
      title: 'Día de la Madre',
@@ -43,19 +44,20 @@ const tileData = [
      link: 'galeria-1',
    },
    {
-     img: diaBioquimico2,
-     title: 'FESTEJO DEL DÍA DEL BIOQUÍMICO',
-     date: '16 de Junio',
-     cols: 1,
-     link: 'galeria-3',
-   },
-   {
-     img: diaBioquimico,
-     title: 'FESTEJO DEL DÍA DEL BIOQUÍMICO',
-     date: '16 de Junio',
-     cols: 2,
-     link: 'galeria-3',
-   },
+    img: cenaFinAnio,
+    title: 'CBSJ agasajó a sus socios en la cena de fin de año',
+    date: '24 de Noviembre',
+    cols: 2,
+    link: 'galeria-6',
+  },
+  {
+    img: asamblea,
+    title: 'Asamblea Anual Ordinaria',
+    date: '31 de Octubre',
+    cols: 1,
+    link: 'galeria-5',
+  },
+   
  ];
 
  export default tileData;

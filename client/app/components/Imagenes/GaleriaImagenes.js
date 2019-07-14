@@ -101,20 +101,12 @@ class GaleriaImagenes extends React.Component {
         />
         <div className={classes.main}>
           <div className={classes.container}>
-            <Galeria
-              titulo='CBSJ agasajó a sus socios en la cena de fin de año'
-              fotosMasonry={fotosCena}
-              fotosLigthBox={LightboxCena}
-              fecha="24 de Noviembre"
-              id='galeria-6'
-              >
-            </Galeria>
-            <Galeria
-              titulo='Asamblea Anual Ordinaria'
-              fotosMasonry={fotosAsamblea}
-              fotosLigthBox={LightboxAsamblea}
-              fecha="31 de Octubre"
-              id='galeria-5'
+          <Galeria
+              titulo='Festejo del día del Bioquímico'
+              fotosMasonry={fotosBioquimicos}
+              fotosLigthBox={LightboxBioquimicos}
+              fecha="16 de Junio"
+              id='galeria-3'
               >
             </Galeria>
             <Galeria
@@ -142,11 +134,19 @@ class GaleriaImagenes extends React.Component {
               >
             </Galeria>
             <Galeria
-              titulo='Festejo del día del Bioquímico'
-              fotosMasonry={fotosBioquimicos}
-              fotosLigthBox={LightboxBioquimicos}
-              fecha="16 de Junio"
-              id='galeria-3'
+              titulo='CBSJ agasajó a sus socios en la cena de fin de año'
+              fotosMasonry={fotosCena}
+              fotosLigthBox={LightboxCena}
+              fecha="24 de Noviembre"
+              id='galeria-6'
+              >
+            </Galeria>
+            <Galeria
+              titulo='Asamblea Anual Ordinaria'
+              fotosMasonry={fotosAsamblea}
+              fotosLigthBox={LightboxAsamblea}
+              fecha="31 de Octubre"
+              id='galeria-5'
               >
             </Galeria>
           </div>
