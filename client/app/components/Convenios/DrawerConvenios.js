@@ -68,7 +68,7 @@ class DrawerConvenios extends React.Component {
       {
         id: 100,
         nombre: 'Detalle de los códigos de facturación por Obra Social',
-        pdf: 'Codigos-OS-10-15.pdf',
+        pdf: 'CODIGOS-OS.pdf',
       },
       {
         id: 101,

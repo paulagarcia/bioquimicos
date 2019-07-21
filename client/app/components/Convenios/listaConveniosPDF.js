@@ -369,6 +369,12 @@ const listaConveniosPDF = [
     pdf: 'INTEGRACION-REGIONAL.pdf',
     nombre: 'INTEGRACIÓN REGIONAL'
   },
+  {
+    id: 75,
+    pdf: 'ASISTMED.pdf',
+    nombre: 'ASISTMED'
+  },
+  
 
 
 ]
