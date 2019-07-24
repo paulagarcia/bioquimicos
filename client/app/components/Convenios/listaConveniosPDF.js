@@ -374,9 +374,11 @@ const listaConveniosPDF = [
     pdf: 'ASISTMED.pdf',
     nombre: 'ASISTMED'
   },
-  
-
-
+  {
+    id: 76,
+    pdf: 'BRAMED.pdf',
+    nombre: 'BRAMED'
+  },
 ]
 
 export default listaConveniosPDF;
