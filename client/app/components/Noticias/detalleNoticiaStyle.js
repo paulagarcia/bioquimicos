@@ -52,6 +52,11 @@ const detalleNoticiaStyle = {
     color:'#444',
     lineHeight: '2rem',
   },
+  linkFace:{
+    ...defaultFont,
+    color: yellowColor2,
+    fontWeight: 'bold',
+  },
   imgContainer:{
     margin: '0 auto',
     boxSizing: 'border-box',
