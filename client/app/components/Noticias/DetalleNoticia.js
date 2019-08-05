@@ -63,6 +63,11 @@ class DetalleNoticia extends React.Component {
           }
         </div>
       ) : (null)}
+      <p>
+        <a className={classes.fechaNota} target="_blank" 
+           href="https://www.facebook.com/Colegio-Bioqu%C3%ADmico-de-San-Juan-1745701705451087/?fb_dtsg_ag=Adz7k73nL2BLIl2ToQmFpz5rRGK33nA_7ENGByeR7ns5Rw%3AAdwbioTic7Z5OdvJCe3wmEGEXj_u8w7EnRZ6H5EuHydzbA">
+             Mira todas las fotas en nuestro Facebook
+        </a></p>
   </div>
   )
 }
