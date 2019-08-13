@@ -22,8 +22,8 @@ const Footer = (props) => {
           </svg>
         </a></p>
         <p>0264 - 421 4266</p>
-        <p>recepcion@colebiosanjuan.com.ar</p>
-        <p>presidencia@colebiosanjuan.com.ar</p>
+        <p>recepcion@colebiosanjuan.org.ar</p>
+        <p>presidencia@colebiosanjuan.org.ar</p>
         <p> Av. España 226 Sur, Capital San Juan, J5402 DRP Argentina </p>
 
 
