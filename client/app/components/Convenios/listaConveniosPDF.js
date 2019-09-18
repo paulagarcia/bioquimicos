@@ -379,6 +379,12 @@ const listaConveniosPDF = [
     pdf: 'BRAMED.pdf',
     nombre: 'BRAMED'
   },
+  {
+    id: 77,
+    pdf: 'ITER-MEDICINA-OSPACA.pdf',
+    nombre: 'ITER MEDICINA OSPACA'
+  },
+  
 ]
 
 export default listaConveniosPDF;
