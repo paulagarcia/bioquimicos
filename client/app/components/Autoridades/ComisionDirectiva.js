@@ -30,11 +30,11 @@ const ComisionDirectiva = (props) => {
             </Grid>
             <Grid item container spacing={16}>
               <Grid item className={classes.person} xs={12} sm={6} md={4}>
-                <p>Dr. Gerardo Guerrero</p>
+              <p>Dra. Nancy Macías</p>
                 <p className={classes.puesto}>Vocal 2º</p>
               </Grid>
               <Grid item className={classes.person} xs={12} sm={6} md={4}>
-                <p>Dra. Nancy Macías</p>
+                <p>Dr. Gerardo Guerrero</p>
                 <p className={classes.puesto}>Vocal 1º</p>
               </Grid>
             </Grid>

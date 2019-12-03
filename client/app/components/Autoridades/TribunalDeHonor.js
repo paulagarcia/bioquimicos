@@ -31,25 +31,25 @@ const TribunalDeHonor = (props) => {
         <h3 className={classes.tituloHonor}>Tribunal de<br></br>Honor</h3>
         <Grid item container justify="space-between">
             <Grid item className={classes.person} >
-              <p style={estilos}>Dr. Jorge Hugo Pelaez</p>
+              <p style={estilos}>Dra. Hilda Aragon</p>
+              <p style={puestoMasChico} className={classes.puesto}>Titular</p>
+            </Grid>
+            <Grid item className={classes.person} >
+              <p style={estilos}>Dr. Miguel Padilla</p>
               <p style={puestoMasChico} className={classes.puesto}>Titular</p>
             </Grid>
             <Grid item className={classes.person} >
               <p style={estilos}>Dra. Sandra Sanchez</p>
               <p style={puestoMasChico} className={classes.puesto}>Titular</p>
             </Grid>
-            <Grid item className={classes.person} >
-              <p style={estilos}>Dr. Nestor Vallet</p>
-              <p style={puestoMasChico} className={classes.puesto}>Titular</p>
-            </Grid>
           </Grid>
           <Grid item container spacing={24}>
             <Grid item className={classes.person}>
-              <p style={estilos}>Dr. Humberto Jose Rufino</p>
+              <p style={estilos}>Dra. Silvia Otto</p>
               <p style={puestoMasChico} className={classes.puesto}>Suplente</p>
             </Grid>
             <Grid item className={classes.person}>
-              <p style={estilos}>Dra. Hilda Aragon</p>
+              <p style={estilos}>Dra. Alicia Elizondo</p>
               <p style={puestoMasChico} className={classes.puesto}>Suplente</p>
             </Grid>
             <Grid item className={classes.person}></Grid>

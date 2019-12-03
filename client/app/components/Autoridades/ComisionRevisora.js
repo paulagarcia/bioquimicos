@@ -45,15 +45,15 @@ const ComisionRevisora = (props) => {
           </Grid>
           <Grid item container justify="space-between">
             <Grid item className={classes.person} style={{textAlign: 'right'}}>
-              <p style={estilos}>Dra. Emilia Bustos</p>
+              <p style={estilos}>Dr. Luis Micheltorena</p>
               <p style={puestoMasChico} className={classes.puesto}>Suplente</p>
             </Grid>
             <Grid item className={classes.person} style={{textAlign: 'right'}}>
-              <p style={estilos}>Dr. Raúl Villalba</p>
+              <p style={estilos}>Dr. Juan Luis Alfani</p>
               <p style={puestoMasChico} className={classes.puesto}>Suplente</p>
             </Grid>
             <Grid item className={classes.person} style={{textAlign: 'right'}}>
-              <p style={estilos}>Dra. Érica Ramis</p>
+              <p style={estilos}>Dra. Adriana Gimenez</p>
               <p style={puestoMasChico} className={classes.puesto}>Suplente</p>
             </Grid>
           </Grid>
