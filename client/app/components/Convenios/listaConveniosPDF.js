@@ -384,6 +384,11 @@ const listaConveniosPDF = [
     pdf: 'ITER-MEDICINA-OSPACA.pdf',
     nombre: 'ITER MEDICINA OSPACA'
   },
+  {
+    id: 78,
+    pdf: 'OSDEPyM.pdf',
+    nombre: 'OSDEPyM'
+  },
   
 ]
 
