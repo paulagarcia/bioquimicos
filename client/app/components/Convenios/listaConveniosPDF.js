@@ -239,11 +239,11 @@ const listaConveniosPDF = [
     pdf: 'OSPIM.pdf',
     nombre: 'OSPIM (Personal de la Industria Maderera)'
   },
-  {
-    id: 49,
-    pdf: 'OSPENA.pdf',
-    nombre: 'OSPENA - Red de Seguros Médicos'
-  },
+  // {
+  //   id: 49,
+  //   pdf: 'OSPENA.pdf',
+  //   nombre: 'OSPENA - Red de Seguros Médicos'
+  // },
   {
     id: 50,
     pdf: 'OSPIDA.pdf',
@@ -349,11 +349,11 @@ const listaConveniosPDF = [
     pdf: 'UNIMED.pdf',
     nombre: 'UNIMED S.A.'
   },
-  {
-    id: 71,
-    pdf: 'UP.pdf',
-    nombre: 'UP'
-  },
+  // {
+  //   id: 71,
+  //   pdf: 'UP.pdf',
+  //   nombre: 'UP'
+  // },
   {
     id: 72,
     pdf: 'UPCN.pdf',
