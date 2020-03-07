@@ -349,11 +349,11 @@ const listaConveniosPDF = [
     pdf: 'UNIMED.pdf',
     nombre: 'UNIMED S.A.'
   },
-  // {
-  //   id: 71,
-  //   pdf: 'UP.pdf',
-  //   nombre: 'UP'
-  // },
+  {
+    id: 71,
+    pdf: 'UP.pdf',
+    nombre: 'UP'
+  },
   {
     id: 72,
     pdf: 'UPCN.pdf',
