@@ -99,11 +99,11 @@ const listaConveniosPDF = [
     pdf: 'INSSJyP.pdf',
     nombre: 'INSSJ y P'
   },
-  {
+  /*{
     id: 21,
     pdf: 'OSTEL.pdf',
     nombre: 'INTEGRACIÓN REGIONAL S.R.L. - OSTEL (Telecomunicaciones)'
-  },
+  },*/
   {
     id: 22,
     pdf: 'IOSFA.pdf',
