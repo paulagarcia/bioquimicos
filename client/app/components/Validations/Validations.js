@@ -28,7 +28,7 @@ const Validations = (props) => {
           <ListItem className={classes.validationItem} component="a" target="_blank" href='http://www.autorizacionesdamsu.com.ar/'>
             <ListItemText primary="Damsu" />
           </ListItem>
-          <ListItem className={classes.validationItem} component="a" target="_blank" href='https://server.biosoft-online.net/PAMISANJUAN/s'>
+          <ListItem className={classes.validationItem} component="a" target="_blank" href='https://server.biosoft-online.net/PAMISANJUAN/'>
             <ListItemText primary="PAMI" />
           </ListItem>
           <ListItem className={classes.validationItem} component="a" target="_blank" href='https://www.micamsalud.com.ar/autorizador1.0.5.2/index_autorizador.php'>
